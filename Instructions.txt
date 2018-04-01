@@ -1,0 +1,4 @@
+After inputing Date press MiddleButtonClick
+num1- LeftButtonClick
+num2-rightButtonClick
+num+-Start
